@@ -8,3 +8,5 @@ npm install
 npm start
 ```
 
+Edit app.js to add proxy rule. Please refer [redbird](https://github.com/OptimalBits/redbird) for detail.
+
